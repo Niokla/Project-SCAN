@@ -6,7 +6,6 @@
 </p>
 
 Макет: https://www.figma.com/file/u3MOjzYnTnirz712GrLbFv/Макет-СКАН <br>
-Результат: https://mxky.github.io/skan/
 
 Исполнено с помощью React, Redux, SASS.
 
